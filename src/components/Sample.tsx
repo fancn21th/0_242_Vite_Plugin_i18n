@@ -10,7 +10,7 @@ function Sample() {
   return (
     <>
       <div>{"中文文本"}</div>
-      <div>中文文本</div>
+            <div>中文文本</div>
       <div>{text}</div>
       <div>{text2}</div>
       <input type="text" value="中文文本" />
